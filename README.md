@@ -2,7 +2,6 @@
 # a1
 Satellite Network DDoS Attack Dataset
 =======
-# Satellite Network DDoS Attack Dataset
 
 ## Dataset Description
 
