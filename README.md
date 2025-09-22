@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Satellite Network DDoS Attack Dataset
 =======
 
@@ -14,4 +14,4 @@
 
 
 
->>>>>>> 2eec540 (first commit)
+
